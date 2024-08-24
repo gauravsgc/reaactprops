@@ -1,0 +1,27 @@
+[
+{
+"info":"react js",
+"icon":"./img.jpg",
+"pay":"payus"
+},
+{
+"info":"Angular",
+"icon":"./img2.jpg",
+"pay":"payus1"
+},
+{
+"info":"react native",
+"icon":"./img3.jpg",
+"pay":"payus2"
+},{
+"info":"flutter",
+"icon":"./img4.jpg",
+"pay":"payus"
+},
+{
+  "info":"java",
+"icon":"./img2.jpg",
+"pay":"payus"  
+}
+
+]
