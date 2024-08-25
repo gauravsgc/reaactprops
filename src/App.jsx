@@ -5,6 +5,7 @@ import './App.css'
 import Header from './Components/Header'
 import Middle from './Components/Middle'
 import data from './Components/Data.json'
+import Footer from './Components/Footer'
 function App() {
   // console.log(data);
   
@@ -34,7 +35,7 @@ function App() {
         </div>
       </div>
       <div className='footer'>
-      
+      <Footer/>
       </div>
 
     </div>

@@ -1,6 +1,8 @@
-import React, { Component } from 'react'
+import React, { Component} from 'react'
+
 import './Style/HStyle.css'
 export class Header extends Component {
+ 
   render() {
     return (
       <div>
